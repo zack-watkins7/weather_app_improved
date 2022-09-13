@@ -8,7 +8,7 @@ body {
     background-size: cover;
     overflow:hidden;
     background-repeat: no-repeat;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New'
 
 }
 
@@ -62,5 +62,9 @@ input.search-bar {
     background: #000000d0;
     font-family: inherit;
     color: white;
+}
+
+.city_name {
+    font-family: 'Courier New'
 }
 
