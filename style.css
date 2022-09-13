@@ -4,11 +4,12 @@ body {
     align-items: center;
     height: 100vh;
     background: #504B4A;
+    font-family: 'Open Sans', sans-serif;
     background-image: url('https://source.unsplash.com/1600x900/?city');
     background-size: cover;
     overflow:hidden;
     background-repeat: no-repeat;
-    font-family: 'Courier New'
+    
 
 }
 
@@ -67,4 +68,12 @@ input.search-bar {
 .city_name {
     font-family: 'Courier New'
 }
+
+.flex-box {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+
 
